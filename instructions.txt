@@ -1,0 +1,7 @@
+01) download from https://github.com/dizad/app01
+02) install node + npm + mongo
+03) npm install (on client and root)
+04) npm run dev (on root)
+05) npm run serve (on client)
+06) click on the localhost link provided
+
